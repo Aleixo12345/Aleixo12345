@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 💙
 
-<!--
-**Aleixo12345/Aleixo12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meu nome é Josiane 
 
-Here are some ideas to get you started:
+- Professora de Tecnologia e Lingua Portuguesa
+- Estamos desenvolvendo projetos na linguagem javacript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo
+
+josianealeixo@prof.educacao.sp.gov.br
+
+![](https://st2.depositphotos.com/5674338/8459/i/450/depositphotos_84592490-stock-illustration-hello-kitty-on-the-screen.jpg)
+
+
