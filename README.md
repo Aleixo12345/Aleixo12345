@@ -1,6 +1,6 @@
 ### Boas Vindas ao meu perfil 💙
 
-### Meu nome é Josiane 
+### AULA DE TECNOLOGIA
 
 - Professora de Tecnologia e Lingua Portuguesa
 - Estamos desenvolvendo projetos na linguagem javacript
